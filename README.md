@@ -46,7 +46,7 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
   
 - train_bureau.csv
 
-  - This dataframe is created manualy by group joining application_train,bureau and bureau_balance dataframe with aggregation funtion count,sum,max,min,mean .
+  - This dataframe is created manually by group joining application_train,bureau and bureau_balance dataframe with aggregation funtion count,sum,max,min,mean .
   
 - previous_loan_final.csv
 
